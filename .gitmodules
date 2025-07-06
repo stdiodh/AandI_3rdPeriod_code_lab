@@ -2,7 +2,7 @@
 	path = week1
 	url = https://github.com/stdiodh/1week_REST_CRUD.git
 	branch = main
-[submodule "2week"]
-	path = 2week
+[submodule "week2"]
+	path = week2
 	url = https://github.com/stdiodh/kotlin_Spring_Data_JPA
 	branch = main
