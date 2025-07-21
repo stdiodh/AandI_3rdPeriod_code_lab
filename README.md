@@ -20,6 +20,7 @@
 | 1주차 | 2025/06/28 | REST API & CRUD |
 | 2주차 | 2025/07/05 | Spring Data JPA & MySQL |
 | 3주차 | 2025/07/12 | Spring Security & JWT |
+| 4주차 | 2025/07/21 | 1:N RDB Database |
 
 ---
 
