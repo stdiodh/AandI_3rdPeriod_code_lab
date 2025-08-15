@@ -18,3 +18,7 @@
 	path = week5
 	url = https://github.com/stdiodh/kotlin_Spring_Security
 	branch = main
+[submodule "week6"]
+	path = week6
+	url = https://github.com/stdiodh/kotlin_Spring_Security
+	branch = main
