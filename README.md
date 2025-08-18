@@ -22,7 +22,7 @@
 | 3주차 | 2025/07/12 | Spring Security & JWT |
 | 4주차 | 2025/07/21 | 1:N RDB Database |
 | 5주차 | 2025/08/02 | refreshToken & SMTP |
-| 5주차 | 2025/08/09 | TDD |
+| 6주차 | 2025/08/09 | TDD |
 
 ---
 
