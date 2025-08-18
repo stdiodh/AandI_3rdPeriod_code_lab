@@ -23,6 +23,7 @@
 | 4주차 | 2025/07/21 | 1:N RDB Database |
 | 5주차 | 2025/08/02 | refreshToken & SMTP |
 | 6주차 | 2025/08/09 | TDD |
+| 7주차 | 2025/08/09 | AWS S3 Image Upload |
 
 ---
 
