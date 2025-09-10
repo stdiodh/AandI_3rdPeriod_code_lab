@@ -24,6 +24,7 @@
 | 5주차 | 2025/08/02 | refreshToken & SMTP |
 | 6주차 | 2025/08/09 | TDD |
 | 7주차 | 2025/08/09 | AWS S3 Image Upload |
+| 8~9주차 | 2025/08/23, 2025/08/30 | AWS EC2 Web Server Upload (+CICD) |
 
 ---
 
